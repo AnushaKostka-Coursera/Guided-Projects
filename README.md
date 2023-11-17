@@ -6,3 +6,4 @@
 4. Predicting the Weather with Artificial Neural Networks
 5. Analyze City Data Using R and Tableau
 6. Sentimental Analysis on COVID-19 Tweets using python
+7. Data Analysis with OpenAI API: Save Time with GenAI
